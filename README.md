@@ -1,3 +1,4 @@
+```
 syntax on
 set number
 colorscheme seoul256 
@@ -29,3 +30,4 @@ endfunction
 " toggle leader w to toggle text wrap
 map <Leader>w :call ToggleWrap()<CR>
 
+```
